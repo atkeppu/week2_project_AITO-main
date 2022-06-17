@@ -7,6 +7,11 @@ body {
   background: #853535;
 }
 
+th
+{
+  background: #2a8a2f;
+}
+
 #menu-table
 {
   text-align: left;
@@ -16,15 +21,16 @@ body {
   width: 100%;
 }
 
-#menu-table tr:nth-child(even) {background:rgb(220, 220, 220)};
-#menu-table tr:nth-child(odd) {background:rgba(0, 0, 0, 0)};
-
-.menu-layout
+div.menu-layout
 {
   text-align: center;
   max-width: 740px;
   margin:auto;
 }
+
+#menu-table tr:nth-child(even) {background:rgb(220, 220, 220)};
+#menu-table tr:nth-child(odd) {background:rgba(0, 0, 0, 0)};
+
 
 .list-item {
   display: list-item;
