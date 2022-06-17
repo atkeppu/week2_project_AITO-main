@@ -1,5 +1,5 @@
 body {
-  font-family: Garmond;
+  font-family: Garamond;
 }
 .header
 {
@@ -18,7 +18,7 @@ body {
 
 tr
 {
-  background: rgb(220, 220, 220);
+  background: rgba(0, 0, 0,0);
 }
 
 .menu-layout
